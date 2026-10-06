@@ -1,4 +1,4 @@
-```txt
+
 # Campus Equipment Booking API
 
 A REST API for booking shared campus equipment such as projectors and cameras.
@@ -225,7 +225,6 @@ midterm-api/
 ├── package.json
 ├── wrangler.jsonc
 └── src/
-    └── index.ts
 ```
-
+    └── index.ts
 ```
