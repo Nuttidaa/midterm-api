@@ -225,6 +225,5 @@ midterm-api/
 ├── package.json
 ├── wrangler.jsonc
 └── src/
-```
     └── index.ts
 ```
