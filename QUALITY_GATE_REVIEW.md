@@ -1,7 +1,5 @@
 # Quality Gate Review
 
-# Quality Gate Review
-
 ## 1. Before 30 Minutes — First Version
 
 - Created the basic Hono API structure.
@@ -72,6 +70,8 @@ Used the required format:
 Evidence:
 Tested 400, 404, and 409 error cases.
 
+---
+
 ### Finding 5 — Testing
 
 **What I found:**
@@ -82,6 +82,8 @@ Tested GET, POST, PATCH, DELETE, validation errors, not found errors, and overla
 
 Evidence:
 Test results and screenshots are included in the screenshots/ folder.
+
+---
 
 ## 3. Reasoning / You Own It
 
@@ -96,6 +98,8 @@ How parameter binding protects SQL queries.
 How PATCH excludes the current booking when checking overlap.
 
 I verified these behaviors using API requests and reviewed the returned responses.
+
+---
 
 ## 4. Final Result
 
