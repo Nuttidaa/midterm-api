@@ -227,3 +227,29 @@ midterm-api/
 └── src/
     └── index.ts
 ```
+## screen shots
+
+ **post**
+ <img width="828" height="484" alt="image" src="https://github.com/user-attachments/assets/fac24d4d-ac10-4665-a17f-4a077e0b757e" />
+
+ **get**
+ <img width="733" height="398" alt="image" src="https://github.com/user-attachments/assets/7e682d18-5c8e-4f41-9268-8190e41dd1b2" />
+
+ **get id**
+ <img width="940" height="344" alt="image" src="https://github.com/user-attachments/assets/6c2d6656-a708-4bb0-8289-45e36c8ce3a1" />
+
+ **409 conflict**
+ <img width="940" height="144" alt="image" src="https://github.com/user-attachments/assets/1c74ad32-1799-4cd4-9063-daf87ad4df5c" />
+
+ **400 Invalid Time**
+ <img width="940" height="235" alt="image" src="https://github.com/user-attachments/assets/839815ff-110d-4cc5-9fff-d23db89d61b2" />
+
+ **404 Equipment**
+ <img width="940" height="249" alt="image" src="https://github.com/user-attachments/assets/5c05bc6f-d9c0-4fb0-a30f-4a5edde2934a" />
+
+ **patch 200**
+ <img width="940" height="218" alt="image" src="https://github.com/user-attachments/assets/bd2e9e4f-6c5f-480c-bec1-5b3640f77235" />
+
+ **delete**
+ <img width="940" height="346" alt="image" src="https://github.com/user-attachments/assets/200331bb-562d-4230-8f17-76d916e9f37c" />
+
